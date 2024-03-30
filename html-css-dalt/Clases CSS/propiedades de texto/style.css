@@ -1,10 +1,4 @@
-.faltante {
+p {
     color: red;
-}
-
-#ingrediente-secreto {
-    color: blue;
-}
-li {
-    color: grey;
+    font-family: sans-serif;
 }
