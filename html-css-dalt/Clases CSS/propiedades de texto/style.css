@@ -5,6 +5,7 @@ p {
     font-weight:bold;
     font-style: normal;
     text-align: justify;
+    text-decoration: dashed;
 }
 
 h1 {
