@@ -1,6 +1,12 @@
 p {
     color: red;
     font-family: montserrat;
-    font-size: 16px;
+    font-size: 18px;
     font-weight:bold;
+    font-style: normal;
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
 }
