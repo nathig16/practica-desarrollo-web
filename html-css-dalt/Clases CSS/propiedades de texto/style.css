@@ -6,6 +6,9 @@ p {
     font-style: normal;
     text-align: justify;
     text-decoration: dashed;
+    line-height: normal;
+    letter-spacing: normal;
+    text-transform: none;
 }
 
 h1 {
