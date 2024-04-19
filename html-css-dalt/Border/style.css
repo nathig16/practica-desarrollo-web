@@ -1,0 +1,13 @@
+div {
+    background: red;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
+
+div {
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+}
