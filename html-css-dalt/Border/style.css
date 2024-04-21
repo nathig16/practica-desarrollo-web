@@ -1,13 +1,21 @@
-div {
-    background: red;
-    width: 200px;
-    margin: auto;
-    text-align: center;
+body {
+    margin: 0;
 }
 
-div {
-    border-width: 5px;
-    border-color: black;
-    border-style: solid;
-    border-radius: 10px;
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 10px;
+}
+
+.box-default {
+    padding: 25px;
+    border: 10px solid black;
+}
+
+.box-new {
+    box-sizing: border-box;
+    padding: 25px;
+    border: 10px solid black;
 }
