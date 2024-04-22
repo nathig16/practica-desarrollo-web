@@ -1,6 +1,13 @@
 .box {
-    width: 100px;
-    height: 100px;
-    background: #48e;
+    padding: 20px 50px;
+    background: hsl(210, 40%, 85%);
     margin: 20px;
+    margin-left: 100px;
+    text-align: center;
+    color: hsl(210, 40%, 45%);
+    font-family: sans-serif;
+    border-top: 2px solid hsl(210, 40%, 45%);
+    font-weight: bold;
+
+
 }
